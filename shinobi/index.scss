@@ -1,9 +1,12 @@
+// functions
 @import "function";
-// variables & functions
+
+// variables
 @import "variables";
 
 // base & layout
 @import "base";
+@import "breakpoints";
 
 // colors
 @import "colors";
